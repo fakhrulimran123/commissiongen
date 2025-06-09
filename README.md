@@ -70,5 +70,5 @@ Commission is calculated based on where the **Selling Price** falls within defin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/commission-web-app.git
+git clone https://github.com/fakhrulimran123/commission-web-app.git
 cd commission-web-app
